@@ -1,7 +1,7 @@
 # DeepFake-Detection-Model
 Deepfake detection using python, tensorflow and keras 
 
-#Dataset 
+# Dataset 
 use any dataset distributed into deepfaked and its respective real video into separate folders
 this is the dataset I used :
 https://data.mendeley.com/datasets/bcmkfgct2s/1
